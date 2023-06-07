@@ -1,1 +1,1 @@
-# boxerGameJavaScript
+# Boxer game with JavaScript
